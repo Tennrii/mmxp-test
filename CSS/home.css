@@ -37,7 +37,7 @@
     background-color:black;
     display: flex;
     position: relative;
-    height: 40vw;
+    height: fit-content;
     overflow: hidden;
     justify-content: center;
     
@@ -207,7 +207,7 @@ padding-bottom: 2vw;
     background-color:black;
     display: flex;
     position: relative;
-    height: 70vw;
+    height: fit-content;
     overflow: hidden;
     justify-content: center;
     
