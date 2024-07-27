@@ -263,7 +263,9 @@ padding-bottom: 2vw;
 .comment{
 display: flex;
 position: relative;
-padding: 2vw;
+padding-left: 2vw;
+padding-right: 2vw;
+padding-bottom: 2vw;
 background-color: rgb(29, 2, 150);
 width: 100%;
 flex-direction: column;
