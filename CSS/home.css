@@ -125,8 +125,9 @@ padding-bottom: 2vw;
 .button-explore{
     margin-left: 20vw;
     margin-top: 0.4vw;
+    padding:0.5vw;
     width: 9vw;
-    height: 3vw;
+    height: fit-content;
     font-size: 1.2vw;
     font-weight: bold;
     background-color: red;
@@ -256,6 +257,7 @@ padding-bottom: 2vw;
     display: block;
     margin-right: 1vw;
     width:15vw;   
+    height:15vw;
 }
 .comment{
 display: flex;
