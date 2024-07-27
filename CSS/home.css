@@ -84,6 +84,7 @@ margin-right: 2vw;
     justify-content: center;
 height: fit-content;
 padding-bottom: 2vw;
+    padding-right:2vw;
     width: 100%;
    
 }
@@ -112,6 +113,7 @@ padding-bottom: 2vw;
     overflow: auto;
     height: fit-content;
     align-items: center;
+    width:fit-content;
 
 }
 .hc1p{
