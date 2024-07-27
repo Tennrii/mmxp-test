@@ -110,6 +110,7 @@ padding-bottom: 2vw;
     margin-left: 7.5vw;
     margin-top: 0vw;
     overflow: auto;
+    height: fit-content;
     align-items: center;
 
 }
