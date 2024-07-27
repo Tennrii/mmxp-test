@@ -71,6 +71,7 @@ margin-right: 2vw;
     z-index: 5;
     padding-left: 2vw;
     padding: 2.5vw;
+    height: fit-content;
     
 
 
@@ -81,7 +82,8 @@ margin-right: 2vw;
     background-color: rgb(47, 94, 47);
     align-items: center;
     justify-content: center;
-
+height: fit-content;
+padding-bottom: 2vw;
     width: 100%;
    
 }
@@ -236,6 +238,7 @@ margin-right: 2vw;
     overflow: hidden;
     display: flex;
     position: relative;
+    height: fit-content;
    
 }
 .hc3d{
@@ -243,6 +246,7 @@ margin-right: 2vw;
     position: relative;
     background-color: rgb(44, 44, 44);
     width: 90vw;
+    height: fit-content;
     justify-content: center;
 
 
@@ -260,6 +264,7 @@ padding: 2vw;
 background-color: rgb(29, 2, 150);
 width: 100%;
 flex-direction: column;
+height: fit-content;
 
 }
 .comment-holder{
