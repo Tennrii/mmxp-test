@@ -1,0 +1,53 @@
+.classes-header{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 24vw;
+    overflow: hidden;
+    justify-content: center;
+
+    background-image: url(https://i.postimg.cc/ncBLp6zN/header-class-image-final.webp);
+    background-size: cover;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    
+    
+}
+.classes-title{
+
+
+    color: white;
+    font-size: 4vw;
+    z-index: 4;
+   
+}
+.class-box1{
+    display: flex;
+    position: relative;
+    justify-content: end;
+    margin-top:6vw;
+    width: 65vw;
+    z-index: 5;
+    background:none;
+   
+}
+.classes-content1{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 60vw;
+    overflow: hidden;
+    justify-content: center;
+    
+}
+.button-classes{
+    margin-left: 0vw;
+    margin-top: 0.4vw;
+    width: 9vw;
+    height: 3vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border: none;
+}

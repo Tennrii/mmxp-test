@@ -1,0 +1,83 @@
+.location-header{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 24vw;
+    overflow: hidden;
+    justify-content: center;
+
+    background-image: url(https://i.postimg.cc/MKdLLY2N/header-location-image-final.webp);
+    background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    
+    
+}
+.location-title{
+
+
+    color: white;
+    font-size: 3.5vw;
+    z-index: 4;
+   
+}
+.location-box1{
+    display: flex;
+    position: relative;
+    justify-content: end;
+    margin-top:7.6vw;
+    width: 65vw;
+    
+    z-index: 5;
+    background:none;
+   
+}
+.location-content1{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: fit-content;
+    overflow: hidden;
+    justify-content: center;
+    
+}
+.lc1i{
+    display: block;
+    width: 25vw;
+    height: 25vw;
+    margin-right: 2vw;
+    
+    
+    }
+    .lc1i:hover{
+    cursor: pointer;
+        
+}
+.lc1s{
+    background-color: rgb(47, 94, 47);
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vw;
+
+    width: 100%;
+    height: fit-content;
+   
+}
+.lc1p{
+    color: white;
+    margin-top:1.1vw ;
+    font-weight: bold;
+    font-size: 2vw;
+    letter-spacing: 0.10vw;
+    line-height: 3.2vw;
+    width: 80%;
+    margin-left: 5vw;
+
+    
+}
+.lcib{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    height: fit-content;
+}

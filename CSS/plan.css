@@ -1,0 +1,153 @@
+.classes-header{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 24vw;
+    overflow: hidden;
+    justify-content: center;
+
+    background-image: url(https://i.postimg.cc/wxsNR4MQ/header-plan-image-final.webp);
+    background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    
+    
+}
+.plan-title{
+
+
+    color: white;
+    font-size: 3.7vw;
+    z-index: 4;
+   
+}
+.plan-box1{
+    display: flex;
+    position: relative;
+    justify-content: start;
+    margin-top:6.5vw;
+    width: 65vw;
+    z-index: 5;
+    background:none;
+   
+}
+.plan-content1{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 60vw;
+    overflow: hidden;
+    justify-content: center;
+    
+}
+.pc1s{
+    background-color: rgb(56, 56, 56);
+    align-items: center;
+    justify-content: center;
+    margin-right: 1vw;
+    height: fit-content;
+    padding-bottom: 5vw;
+
+    width: 100%;
+   
+}
+.pc2s{
+    background-color: rgb(47, 94, 47);
+    align-items: center;
+    justify-content: center;
+    margin-left: 1vw;
+
+
+    width: 100%;
+   
+}
+.pc1hb{
+    background-color: rgb(216, 29, 29);
+    display: flex;
+    position: relative;
+    justify-content: center;
+    flex-direction: column;
+
+    overflow: auto;
+    align-items: center;
+    padding: 2vw;
+
+}
+.pc1h{
+    color: white;
+    font-size: 1.2vw;
+
+    background-color: green;
+    padding: 0.3vw;
+
+}
+.pc1h2{
+    color: white;
+    font-size: 2.5vw;
+    margin-top: 1.3vw;
+    padding: 0.3vw;
+    text-align: center;
+    font-weight: bolder;
+
+}
+.pc1h3{
+    color: white;
+     font-size: 0.9vw;
+     text-align: center;
+     margin-top: 1.2vw;
+}
+.pc1h4{
+    color: white;
+    text-align: center;
+    margin-top: 0.8vw;
+    line-height: 1.2vw;
+    font-size: 0.9vw;
+}
+
+.pc1p{
+    color: white;
+    margin-top:1.4vw ;
+     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2vw;
+    letter-spacing: 0.20vw;
+    width: 30vw;
+    
+    
+}
+.pc1h5{
+    color: white;
+     font-size: 0.9vw;
+     text-align: center;
+     margin-top: 1.2vw;
+     background-color: rgba(97, 97, 97, 0.425);
+}
+.pc1c{
+    background-color: rgb(140, 122, 189);
+
+    display: flex;
+    position: relative;
+
+    margin: 5vw;
+    width: 80vw;
+    overflow: hidden;
+    z-index: 5;
+
+    padding: 2.5vw;
+    height: fit-content;
+    
+
+
+}
+.pc2s{
+    background-color: rgb(56, 56, 56);
+    align-items: center;
+    justify-content: center;
+    margin-left: 1vw;
+    height: fit-content;
+    padding-bottom: 5vw;
+
+    width: 100%;
+   
+}

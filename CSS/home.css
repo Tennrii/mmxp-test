@@ -1,0 +1,304 @@
+.home-title{
+
+
+    color: white;
+    font-size: 6vw;
+    z-index: 4;
+   
+}
+.home-header{
+      background-color:black;
+      display: flex;
+      position: relative;
+      height: 40vw;
+      overflow: hidden;
+      justify-content: center;
+
+      background-image: url(https://i.postimg.cc/50z3dyfQ/header-image-finalp.png);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      
+      
+}
+.home-box1{
+    display: flex;
+    position: relative;
+    justify-content: start;
+    margin-top:10vw ;
+    width: 65vw;
+    z-index: 5;
+    background:none;
+   
+}
+/*==========1ST ARTICLE==============*/
+
+.home-content1{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 40vw;
+    overflow: hidden;
+    justify-content: center;
+    
+}
+.hc1d{
+    display: flex;
+    position: relative;
+    background-color: rgb(44, 44, 44);
+    width: 90vw;
+
+
+    z-index: 5;
+}
+.hc1i{
+display: block;
+width: 25vw;
+height: 25vw;
+margin-right: 2vw;
+
+
+}
+.hc1c{
+    background-color: rgb(140, 122, 189);
+
+    display: flex;
+    position: relative;
+
+    margin: 5vw;
+    width: 80vw;
+    overflow: hidden;
+    z-index: 5;
+    padding-left: 2vw;
+    padding: 2.5vw;
+    
+
+
+}
+
+
+.hc1s{
+    background-color: rgb(47, 94, 47);
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+   
+}
+.hc1b{
+    background-color: red;
+    position: relative;
+     width: 0.5vw;
+      height: 8vw;
+      
+
+
+}
+.hc1h{
+    color: white;
+    font-size: 2.8vw;
+    margin-left: 0.4vw;
+
+}
+.hc1hb{
+    background-color: tomato;
+    display: flex;
+    position: relative;
+    justify-content: start;
+    margin-left: 7.5vw;
+    margin-top: 0vw;
+    overflow: auto;
+    align-items: center;
+
+}
+.hc1p{
+    color: white;
+    margin-top:1.1vw ;
+    margin-left: 9vw;
+    font-size: 1.5vw;
+    letter-spacing: 0.20vw;
+    
+    
+}
+.button-explore{
+    margin-left: 20vw;
+    margin-top: 0.4vw;
+    width: 9vw;
+    height: 3vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.button-explore:hover{
+    cursor: pointer;
+}
+/*========2ND ARTICLE========*/
+.hc2d{
+    display: flex;
+    position: relative;
+  
+    width: 90vw;
+    background-image: url(https://i.postimg.cc/prr2kq3P/DAAAV.jpg);      background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    z-index: 5;
+}
+.hc2c{
+    background-color: rgb(140, 122, 189);
+
+    display: flex;
+    position: relative;
+
+    margin: 5vw;
+    width: 80vw;
+    overflow: hidden;
+    z-index: 5;
+
+
+}
+.hc2hb{
+
+    display: flex;
+    position: relative;
+    justify-content: start;
+    margin-left: 1.7vw;
+    margin-top: 0vw;
+    overflow: auto;
+    align-items: center;
+
+}
+.hc2p{
+    color: white;
+    margin-top:1.7vw ;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+    letter-spacing: 0.20vw;
+    width: 40vw;
+    
+}
+.button-explore2{
+    margin-left: 15vw;
+    margin-top: 2vw;
+    width: 9vw;
+    height: 3vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.button-explore2:hover{
+    cursor: pointer;
+}
+.hc2h{
+    color: white;
+    font-size: 2.6vw;
+    margin-left: 0.4vw;
+
+}
+
+.home-content3{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 70vw;
+    overflow: hidden;
+    justify-content: center;
+    
+}
+.hc3c{
+    background-color: rgb(140, 122, 189);
+
+    display: grid;
+    grid-template-rows: 33% 33% 33%;
+    position: relative;
+
+    margin: 5vw;
+    width: 80vw;
+    overflow: hidden;
+    z-index: 5;
+
+    padding: 1.5vw;
+    
+    justify-content: center;
+
+}
+.hc3s{
+    background-color: rgb(172, 44, 44);
+
+    margin: 1vw;
+    padding: 1vw;
+    width: 70vw;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+   
+}
+.hc3d{
+    display: flex;
+    position: relative;
+    background-color: rgb(44, 44, 44);
+    width: 90vw;
+    justify-content: center;
+
+
+    z-index: 5;
+}
+.commentor-pic{
+    display: block;
+    margin-right: 1vw;
+    width:15vw;   
+}
+.comment{
+display: flex;
+position: relative;
+padding: 2vw;
+background-color: rgb(29, 2, 150);
+width: 100%;
+flex-direction: column;
+
+}
+.comment-holder{
+    display: flex;
+    position: relative;
+    
+    color: white;
+    margin-top:1.7vw ;
+
+    font-size: 1.2vw;
+    letter-spacing: 0.20vw;
+    width: 100%;
+    font-style: italic;
+    
+}
+.name{
+    margin-top: 2vw;
+    display: flex;
+position: relative;
+flex-direction: row;
+background-color: rgb(29, 146, 88);
+width: fit-content;
+font-size: 1.5vw;
+}
+footer{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 20vw;
+    background-color: rgb(19, 56, 56);
+}
+.footer2{
+    display: flex;
+    position: absolute;
+
+
+
+bottom: 0;
+    width: 100%;
+    height: 4vw;
+    background-color: rgb(2, 20, 20);
+}

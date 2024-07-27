@@ -1,0 +1,67 @@
+.center-dashboard{
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: center;
+    z-index: 10;
+  
+}
+
+.dashboard-container{
+    display: flex;
+    position: relative;
+
+    background-color: rgba(22, 22, 22, 0.705);
+
+    height: 5vw;
+    width: 70%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-left: auto;
+    margin-right: auto;
+     resize: both;
+
+    justify-content: space-between;
+   align-items: center;
+
+
+}
+
+.menu-container{
+
+    display: flex;
+    position: static;
+    object-fit: contain;
+
+  
+
+}
+
+.menu-button{
+
+    padding-left: 2vw;
+}
+.mmxp-button{
+
+    display: static;
+    padding-left: 1vw;
+
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 2vw;
+    text-align: center;
+
+}
+.mmxp-link{
+    color: rgb(175, 8, 8);
+    font-weight: bold;
+    border: none;
+    background:none;
+    font-size: 2vw;
+}
+a:hover{
+    color: red;
+}

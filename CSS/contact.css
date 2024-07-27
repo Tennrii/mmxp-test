@@ -1,0 +1,128 @@
+.contact-header{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 24vw;
+    overflow: hidden;
+    justify-content: center;
+
+    background-image: url(https://i.postimg.cc/pXH2tjXR/header-contact-image-final.webp);
+    background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    
+    
+}
+.contact-title{
+
+
+    color: white;
+    font-size: 3.5vw;
+    z-index: 4;
+   
+}
+.contact-box1{
+    display: flex;
+    position: relative;
+    justify-content: start;
+    margin-top:7vw;
+    width: 65vw;
+    z-index: 5;
+    background:none;
+   
+}
+.classes-content1{
+    background-color:black;
+    display: flex;
+    position: relative;
+    height: 60vw;
+    overflow: hidden;
+    justify-content: center;
+
+    
+}
+.coc1hb{
+    background-color: tomato;
+    display: flex;
+    position: relative;
+    justify-content: start;
+    margin-left: 7.5vw;
+    margin-top: 0vw;
+    overflow: auto;
+    align-items: center;
+
+}
+.coc1c{
+    background-color: rgb(109, 109, 109);
+
+    display: flex;
+    position: relative;
+    flex-direction: column;
+
+    margin: 5vw;
+    width: 80vw;
+    overflow: hidden;
+    z-index: 5;
+    padding-left: 2vw;
+    padding: 2.5vw;
+    
+
+
+}
+
+.coc1s{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+   
+
+    justify-content: center;
+
+    width: 100%;
+   
+}
+
+
+.cs1{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+  
+    width: 70%;
+    height: 20vw;
+    margin-right: 1vw;
+    line-height: 4vw;
+ 
+}
+.cs2{
+    display: flex;
+    position: relative;
+ 
+    flex-direction: column;
+  
+    width: 100%;
+    height: 20vw;
+    line-height: 4vw;
+  
+}
+.cs1s{
+    display: flex;
+    position: relative;
+    color: white;
+    justify-content: end;
+    margin-right: 2vw;
+    font-size: 2.3vw;
+}
+.cs2s{
+    display: flex;
+    position: relative;
+    color: white;
+    justify-content: start;
+    text-decoration: underline;
+    
+    font-size: 2.3vw;
+}
+.contact-msg{
+    color: white;
+    text-align: center;
+}
