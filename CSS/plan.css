@@ -153,3 +153,13 @@
     width: 100%;
    
 }
+.pc1d{
+    display: flex;
+    position: relative;
+    background-color: rgb(44, 44, 44);
+    width: 90vw;
+    height: fit-content;
+
+
+    z-index: 5;
+}
