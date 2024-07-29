@@ -41,6 +41,8 @@
     
 }
 .pc1s{
+    display: flex;
+    flex-direction: column;
     background-color: rgb(56, 56, 56);
     align-items: center;
     justify-content: center;
