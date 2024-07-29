@@ -35,7 +35,7 @@
     background-color:black;
     display: flex;
     position: relative;
-    height: 60vw;
+    height: fit-content;
     overflow: hidden;
     justify-content: center;
     
